@@ -42,6 +42,7 @@
   margin-top: 40px;
   padding: 20px;
   display: inline-block;
+  width: 50%;
 }
 
 .hero-heading {
@@ -142,7 +143,6 @@ footer {
   background-color: #ffffff;
   height: 100px;
   /*? With FlexBox*/
-
   /* display: flex;
   align-items: center; */
 }
